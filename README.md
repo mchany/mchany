@@ -4,6 +4,17 @@
   I'm mchany, a high school student developer from South Korea🇰🇷
 </p>
 
+<p align="center">
+  <a href="https://github.com/mchany">
+    <img src="https://img.shields.io/badge/GitHub-mchany-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  
+  <a href="https://codeberg.org/mchany">
+    <img src="https://img.shields.io/badge/Codeberg-mchany-181717?style=flat-square&logo=Codeberg" alt="Codeberg" />
+  </a>
+  
+</p>
+
 ### About Me
 
 안녕하세요! 대한민국에 사는 고등학생 개발자 mchany입니다.
