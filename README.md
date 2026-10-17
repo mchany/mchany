@@ -39,22 +39,22 @@ I started with C and currently build projects with JavaScript. I'm also learning
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
+
 ## Featured Project
 
 <table>
   <tr>
     <td>
-      <a href="https://jihs-lostnfound.pages.dev">
-        <img
-          src="https://img.shields.io/badge/중일분실물DB-Live_Demo-0969DA?style=for-the-badge"
-          alt="중일분실물DB Live Demo"
-        />
+      <a href="https://github.com/mchany/jihs-lostnfound">
+        <strong>중일분실물DB</strong>
       </a>
       <p>
         학교 분실물 게시 및 검색을 위한 웹 서비스입니다. Cloudflare Pages와 D1/R2 저장소를 활용합니다.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
         <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare D1" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
       </p>
