@@ -1,4 +1,4 @@
-<h1 align="center">#include &lt;brain&gt;<br>Hello World!</h1>
+<h1 align="center">#include &lt;brain.h&gt;<br>Hello World!</h1>
 
 <p align="center">
   I'm mchany, a high school student developer from South Korea🇰🇷
