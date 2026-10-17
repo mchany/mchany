@@ -1,19 +1,10 @@
-
 <h1 align="center">Hello World!</h1>
 
 <p align="center">
-  I'm mchany, a high school student developer from South Korea
+  I'm mchany, a high school student developer from South Korea🇰🇷
 </p>
 
-<p align="center">
-  <a href="https://github.com/mchany">
-    <img src="https://img.shields.io/badge/GitHub-mchany-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## About Me
+### About Me
 
 안녕하세요! 대한민국에 사는 고등학생 개발자 mchany입니다.
 
@@ -23,42 +14,12 @@ I'm mchany, a high school student developer living in South Korea.
 
 I started with C and currently build projects with JavaScript. I'm also learning Python and Kotlin, and I hope to develop Android applications with Kotlin in the future.
 
-## Platforms
+### Platform
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-</p>
-
-## Skills & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
-
-
-## Featured Project
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mchany/jihs-lostnfound">
-        <strong>중일분실물DB</strong>
-      </a>
-      <p>
-        학교 분실물 게시 및 검색을 위한 웹 서비스입니다. Cloudflare Pages와 D1/R2 저장소를 활용합니다.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
-        <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare D1" />
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
-      </p>
-      <a href="https://jihs-lostnfound.pages.dev">Visit Project →</a>
-    </td>
-  </tr>
-</table>
+### Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
