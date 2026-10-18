@@ -37,4 +37,4 @@ I started with C and currently build projects with JavaScript. I'm also learning
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ----
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
