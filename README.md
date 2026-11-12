@@ -27,6 +27,9 @@ I'm mchany, a high school student developer living in South Korea.
 
 I started with C and currently build projects with Kotlin.
 
+### Contact
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mchany.kindly712@passfwd.com)
+
 ### Platform
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
