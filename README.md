@@ -1,4 +1,4 @@
-# <p align="center"><br>Hello World!</h1></p>
+# <p align="center"><br>Hello World!</p>
 
 <p align="center">
   I'm mchany, a high school student developer from South Korea🇰🇷
@@ -21,7 +21,7 @@
 
 안녕하세요! 대한민국에 사는 고등학생 개발자 mchany입니다.
 
-처음에는 C를 배웠고, 현재는 Kotlin를 이용해 프로젝트를 개발하고 있습니다.
+처음에는 C를 배웠고, 현재는 Kotlin을 이용해 프로젝트를 개발하고 있습니다.
 
 I'm mchany, a high school student developer living in South Korea.
 
